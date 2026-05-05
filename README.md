@@ -29,5 +29,7 @@ Software Engineer from Brazil. I am passionate about systems architecture, appli
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=joax-gabrielx&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joax-gabrielx&layout=compact&theme=tokyonight&hide_langs_below=1)
+
+### 📩 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/João-Gabriel-de-Oliveira-S)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielolliver305@gmail.com)
